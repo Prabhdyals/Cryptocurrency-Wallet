@@ -27,7 +27,7 @@ Specifically, from perspective of a Fintech Finder customer in order to do the f
 After transaction’s hash code, screenshots of Transactions section of Ganache have been added to review the blockchain transaction details. To confirm that transaction were succesful.
 
 
-    ![Screenshot off Application.](Images/19-4-challenge-image.png)
-    ![Screenshot of address balance and history on Ganache.](Images/19-4-challenge-image.png)
-    ![Screenshot of the transaction details on Ganache.](Images/19-4-challenge-image.png)
+    ![Screenshot off Application.](Images/App1.png)
+    ![Screenshot of address balance and history on Ganache.](Images/App2.png)
+    ![Screenshot of the transaction details on Ganache.](Images/App3.png)
     
